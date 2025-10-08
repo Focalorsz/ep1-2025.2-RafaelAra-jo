@@ -1,4 +1,4 @@
-/*import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 class PessoaTest {
@@ -49,4 +49,4 @@ class PessoaTest {
         assertTrue(resultado.contains("Teste"));
         assertTrue(resultado.contains("999"));
     }
-}*/
+}

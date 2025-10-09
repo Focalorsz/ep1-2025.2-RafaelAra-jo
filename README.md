@@ -1,7 +1,7 @@
 # 🏥 Trabalho Prático – Sistema de Gerenciamento Hospitalar  
 
 ### 🎯 Objetivo  
-Implementar um *Sistema de Gerenciamento Hospitalar* em *Java, aplicando conceitos avançados de **Programação Orientada a Objetos (POO), com foco em **herança, polimorfismo, encapsulamento, persistência de dados* e *regras de negócio mais complexas*.  
+Implementar um *Sistema de Gerenciamento Hospitalar* em *Java, aplicando conceitos avançados de **Programação Orientada a Objetos (POO), com foco em **herança, polimorfismo, encapsulamento, persistência de dados*.  
 
 ---
 ## Descrição do Projeto
@@ -10,26 +10,25 @@ Desenvolvimento de um sistema de gerenciamento hospitalar utilizando os conceito
 
 ## Dados do Aluno
 
-- **Nome completo:** [Preencher aqui]
-- **Matrícula:** [Preencher aqui]
-- **Curso:** [Preencher aqui]
-- **Turma:** [Preencher aqui]
+- **Nome completo:** Rafael Nicolas Freitas Araújo
+- **Matrícula:** 251027835
+- **Curso:** engenharias
+- **Turma:** t02
 
 ---
 
 ## Instruções para Compilação e Execução
-
 1. **Compilação:**  
-   [Descrever aqui como compilar o projeto. Exemplo: `javac Main.java` ou o script usado]
+   para compilar use o seguinte comando no terminal:mvn compile
 
 2. **Execução:**  
-   [Descrever aqui como executar o projeto. Exemplo: `java Main` ou o script usado]
+   para executar o sistema use o seguinte comando no terminal:mvn compile:mvn exec:java -Dexec.mainClass="SistemaHospitalar"
 
 3. **Estrutura de Pastas:**  
    [Descrever aqui as principais pastas do projeto]
 
 3. **Versão do JAVA utilizada:**  
-   [Descrever aqui como versão do JAVA utilizada no projeto. Sugestão: `java 21`]
+   Java JDK 11 ou superior e Maven 3.6+
 
 ---
 
@@ -56,13 +55,13 @@ Desenvolvimento de um sistema de gerenciamento hospitalar utilizando os conceito
 
 ## Observações (Extras ou Dificuldades)
 
-- [Espaço para o aluno comentar qualquer funcionalidade extra que implementou, dificuldades enfrentadas, ou considerações importantes.]
+- essa linguagem é extremamente cansativa, ela é muito repetitiva e comandos simples se tornam longos, o maven precisa de configurações especificas dependendo da forma que você organizou o diretório se não ele simplesmente para de reconhecer as classes que existem.
 
 ---
 
 ## Contato
 
-- [Opcional: E-mail pessoal do aluno.]
+- rafaelnicolasfreitas@gmail.com
 
 ---
 
